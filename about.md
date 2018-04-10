@@ -6,10 +6,12 @@ layout: page
 
 <p>I've always been curious about how things work. Tearing things apart and attempting to rebuild them made me into a bit of a menace in my younger years. The internet and video games in particular caught my attention (big surprise). My fascination for the seemingly limitless potential of these virtual systems is what finally led me to pursue a bachelor's degree in Computer Science in 2014.</p>
 
-<p>Currently I'm learning a bit of anything I can about everything. I have toyed with the Unity game engine, done image and video processing with OpenCV, built mobile apps using frameworks such as ReactNative and I have created cloud infrastructures with AWS.
+<p>Currently I'm learning a bit of anything I can about everything. I have toyed with the Unity game engine, done image and video processing with OpenCV, built mobile apps using frameworks such as ReactNative, and built cloud infrastructures using AWS.
 The speed and flexibility with which I can learn and adapt to new technologies and practices is what I consider to be my greatest strength.</p>
 
-<h2>Skills</h2>
+---
+
+## Skills
 
 * **Front-end**   
 HTML-CSS, JavaScript, Jekyll, Polymer
@@ -25,16 +27,17 @@ Unity Game Engine
 * **Mobile**   
 Android Studio, ReactNative, Flutter
 
-<h2>Recent Work</h2>
+---
 
+## Where I Have Worked
 
-<!-- <h2>Projects</h2>
+<div class="side-by-side">
+    <div class="toleft">
+        <img class="image" src="http://media.corporate-ir.net/media_files/IROL/17/176060/img/logos/amazon_logo_RGB.jpg" alt="Amazon">
+    </div>
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul> -->
+</div>
+---
 
 ## Other Interests
 
