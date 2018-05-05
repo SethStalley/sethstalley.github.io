@@ -54,7 +54,6 @@ email: sethstalley@gmail.com
 authors:
     sethstalley:
         name: Seth Stalley
-        # bio: A Man who travels the world eating noodles
         external-image: false
         picture: assets/images/profile.jpg
         twitter: twitter.com/sethstalley
@@ -69,7 +68,7 @@ width: normal
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-# projects: true
+projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
