@@ -13,7 +13,6 @@ projects: true
 hidden: false
 description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
 category: project
-externalLink: false
 ---
 
 If you play Dota 2, or any team based competitive games really, then you probably have a group of friends who you enjoy playing the occasional match with. Some of your friends may be better than others at the game but you still play with them anyways because it's just more fun that way.
