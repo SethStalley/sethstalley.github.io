@@ -33,7 +33,7 @@ Android Studio, ReactNative, Flutter
 
 <div class="side-by-side">
     <div class="toleft">
-        <img class="image" src="http://media.corporate-ir.net/media_files/IROL/17/176060/img/logos/amazon_logo_RGB.jpg" alt="Amazon">
+        <img class="image" src="{{ site.url }}/assets/images/amazon_logo_RGB.jpg" alt="Amazon">
     </div>
 
 </div>

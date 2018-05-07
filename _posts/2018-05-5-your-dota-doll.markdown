@@ -22,9 +22,9 @@ Within my circle of Dota 2 buddies there is an ongoing joke that each person has
 
 ---
 
-I was messing around with the [Open Dota API](https://docs.opendota.com/) and quickly realized that it was possible to create a seemingly dynamic site that is fully static and freely hosted on sites such as [Github Pages](https://pages.github.com/). [Your Dota Doll](http://sethstalley.com/your-dota-doll/) is evidence of what can be done from a static website by using free API's and how you can even handle partial credential login (in the case of Steam Login) to obtain enough information about your user to offer a personalized "dynamic" experience.
+I was messing around with the [Open Dota API](https://docs.opendota.com/) and quickly realized that it was possible to create a seemingly dynamic site that is fully static and freely hosted on sites such as [Github Pages](https://pages.github.com/). [Your Dota Doll](https://sethstalley.com/your-dota-doll/) is evidence of what can be done from a static website by using free API's and how you can even handle partial credential login (in the case of Steam Login) to obtain enough information about your user to offer a personalized "dynamic" experience.
 
 ---
 
-[Check it out](http://sethstalley.com/your-dota-doll/) here to find out who your Dota doll is. Hopefully you are not your own Dota doll...
+[Check it out](https://sethstalley.com/your-dota-doll/) here to find out who your Dota doll is. Hopefully you are not your own Dota doll...
 If you need some help or want to add something, just [tell me](https://github.com/SethStalley/your-dota-doll/issues).
