@@ -11,7 +11,7 @@ tag:
 headerImage: false
 projects: true
 hidden: false
-description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
+description: "Static website that will find which of your friends you loose more Dota 2 with."
 category: project
 ---
 
