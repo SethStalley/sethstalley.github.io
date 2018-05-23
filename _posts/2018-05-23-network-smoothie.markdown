@@ -13,7 +13,7 @@ projects: true
 description: "Open and simple GUI for local internet bonding."
 category: project
 ---
-Smoothie is an open source electron app that aims to be an easy to use cross platform application for enabling local internet adapter bonding. In simpler terms, Smoothie aims offer the "speed" feature of paid services such as [Speedify](http://speedify.com/). All for free and without reliance on separate private servers.
+Smoothie is an open source electron app that aims to be an easy to use cross platform application for enabling local internet adapter bonding. In simpler terms, Smoothie aims to offer the "speed" feature of paid services such as [Speedify](http://speedify.com/). All for free and without the reliance on separate private servers.
 
 Work on this project is ongoing, but you can grab the latest pre-release binary [here](https://github.com/SethStalley/network-smoothie/releases)
 
