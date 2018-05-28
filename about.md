@@ -9,6 +9,15 @@ layout: page
 
 ---
 
+## Where I Have Worked
+
+<div class="side-by-side">
+    <div class="toleft">
+        <img class="image" src="{{ site.url }}/assets/images/amazon_logo_RGB.jpg" alt="Amazon">
+    </div>
+</div>
+---
+
 ## Skills
 
 * **Front-end**
@@ -35,16 +44,6 @@ layout: page
 
     Android Studio, React Native, Flutter
 
----
-
-## Where I Have Worked
-
-<div class="side-by-side">
-    <div class="toleft">
-        <img class="image" src="{{ site.url }}/assets/images/amazon_logo_RGB.jpg" alt="Amazon">
-    </div>
-
-</div>
 ---
 
 ## Other Interests

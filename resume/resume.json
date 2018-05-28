@@ -62,13 +62,7 @@
       "studyType": "Bachelor",
       "startDate": "2014-02-12",
       "endDate": "2018-03-09",
-      "gpa": "3.6",
-      "courses": [
-        "IC3101 - Computer Architecture",
-        "IC3002 - Computer Algorithms",
-        "IC4700 - Programming Languages",
-        "IC6821 - Software Design"
-      ]
+      "gpa": "3.6"
     }
   ],
 
@@ -79,7 +73,7 @@
       "keywords": [
         "HTML",
         "CSS",
-        "Javascript",
+        "JavaScript",
         "Hugo/Jekyll",
         "Electron"
       ]
