@@ -5,8 +5,7 @@ layout: page
 
 <p>I have always been curious about how things work. Growing up, the internet and video games in particular caught my attention (big surprise). My fascination for the seemingly limitless potential of these virtual systems is what finally led me to pursue a bachelor's degree in Computer Science in 2014.</p>
 
-<p>I have worked with the Unity game engine, done image and video processing with OpenCV, built mobile apps using frameworks such as ReactNative and built cloud infrastructures using AWS.
-The speed and flexibility with which I can learn and adapt to new technologies and practices is what I consider to be my greatest strength.</p>
+<p>I'm a recent graduate looking to see what is next. The speed and flexibility with which I can learn and adapt to new technologies and practices are what I consider to be my greatest strengths.</p>
 
 ---
 
@@ -14,23 +13,27 @@ The speed and flexibility with which I can learn and adapt to new technologies a
 
 * **Front-end**
 
-    HTML-CSS, JavaScript, Jekyll/Hugo, Electron, Polymer
+    HTML-CSS, JavaScript, Jekyll/Hugo, Electron
 
 * **Back-end**
 
-    NodeJS, Redis, SQL, NoSQL, Python, Java
+    Node Express, Java Spring, Python Flask, Serverless, Redis, SQL, NoSQL
 
 * **Cloud**
 
     AWS, Firebase
 
+* **DevOps**
+
+    CircleCI, AWS Cloudformation, AWS Code Deploy, Gulp, Github
+
 * **Video Games**
 
-    Unity Game Engine
+    Unity Game Engine, PixiJS
 
 * **Mobile**
 
-    Android Studio, ReactNative, Flutter
+    Android Studio, React Native, Flutter
 
 ---
 

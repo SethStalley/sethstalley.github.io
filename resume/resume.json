@@ -1,0 +1,173 @@
+{
+  "basics": {
+    "name": "Seth Michael Stalley",
+    "label": "Software Developer",
+    "picture": "https://sethstalley.com/assets/images/profile.jpg",
+    "email": "sethstalley@gmail.com",
+    "phone": "+506 83011931",
+    "website": "https://sethstalley.com",
+    "summary": "Hi there! I'm a U.S. expatriate who studied and currently lives in Costa Rica. I'm a software developer looking to see what is next.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Jaco",
+      "countryCode": "CR",
+      "region": "Puntarenas"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "sethstalley",
+        "url": "https://twitter.com/sethstalley"
+      },
+      {
+        "network": "Github",
+        "username": "sethstalley",
+        "url": "https://github.com/sethstalley"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Amazon",
+      "position": "SDE Intern",
+      "startDate": "2017-07-24",
+      "endDate": "2017-11-25",
+      "summary": "Created internal Java microservice that allows internal applications to easily communicate with Amazon's email service.",
+      "highlights": [
+        "Greatly simplified the existing solution that was being used to send emails from internal IT applications.",
+        "Leveraged AWS SNS and SQS to create a highly portable and scalable communication protocol for Amazon's internal apps.",
+        "Created internal documentation and metrics dashboard.",
+        "Setup near real-time logs and alarms using AWS CloudWatch.",
+        "After internship I was greenlit by bar raiser and team to be hired as a full time SDE at Amazon."
+      ]
+    }
+  ],
+  "volunteer": [{
+    "organization": "ITCR's Chemistry School",
+    "position": "Assistant",
+    "startDate": "2016-08-27",
+    "endDate": "2017-01-13",
+    "summary": "Assisted with the development of a cross-platform Java Swing application with the goal of processing data from a spectrophotometer.",
+    "highlights": [
+      "Implemented encrypted file Save/Open feature for Java desktop application.",
+      "Created a REST API using Node.js to securely expose MySQL procedures over HTTPS.",
+      "Created complementary web app using polymer, which displays real time data from REST API and graphs data using highcharts."
+    ]
+  }],
+  "education": [
+    {
+      "institution": "Costa Rica Institute of Technology",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2014-02-12",
+      "endDate": "2018-03-09",
+      "gpa": "3.6",
+      "courses": [
+        "IC3101 - Computer Architecture",
+        "IC3002 - Computer Algorithms",
+        "IC4700 - Programming Languages",
+        "IC6821 - Software Design"
+      ]
+    }
+  ],
+
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Intermediate",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "Hugo/Jekyll",
+        "Electron"
+      ]
+    },
+    {
+      "name": "Backend",
+      "level": "Intermediate",
+      "keywords": [
+        "Node Express",
+        "Java",
+        "Python Flask",
+        "Ruby Rails",
+        "Serverless Lambda",
+        "Redis",
+        "SQL",
+        "NoSQL"
+      ]
+    },
+    {
+      "name": "Cloud",
+      "level": "Intermediate",
+      "keywords": [
+        "AWS",
+        "Firebase"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "level": "Novice",
+      "keywords": [
+        "CircleCI",
+        "AWS Cloudformation",
+        "AWS Code Deploy",
+        "Gulp",
+        "Github"
+      ]
+    },
+    {
+      "name": "Video Game Development",
+      "level": "Novice",
+      "keywords": [
+        "Unity Engine - C#",
+        "PixiJS"
+      ]
+    },
+    {
+      "name": "Mobile",
+      "level": "Novice",
+      "keywords": [
+        "Android Studio",
+        "React Native",
+        "Flutter"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Tourism",
+      "keywords": [
+        "Costa Rica",
+        "Airbnb Host"
+      ]
+    },
+    {
+      "name": "Space",
+      "keywords": [
+        "SpaceX",
+        "NASA"
+      ]
+    },
+    {
+    "name": "Video Games",
+    "keywords": [
+      "Dota",
+      "World of Warcraft",
+      "Hearthstone",
+      "StarCraft"
+    ]
+    }
+  ]
+}
