@@ -35,7 +35,7 @@
         "Leveraged AWS SNS and SQS to create a highly portable and scalable communication protocol for Amazon's internal apps.",
         "Created internal documentation and metrics dashboard.",
         "Setup near real-time logs and alarms using AWS CloudWatch.",
-        "After the internship, I was greenlit by bar raiser and team to be hired as a full time SDE at Amazon."
+        "After the internship, I was greenlit by the bar raiser and team to be hired as a full time SDE at Amazon."
       ]
     }
   ],
@@ -133,30 +133,6 @@
     {
       "language": "Spanish",
       "fluency": "Fluent"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Tourism",
-      "keywords": [
-        "Costa Rica",
-        "Airbnb Host"
-      ]
-    },
-    {
-      "name": "Space",
-      "keywords": [
-        "SpaceX",
-        "NASA"
-      ]
-    },
-    {
-    "name": "Video Games",
-    "keywords": [
-      "Dota",
-      "World of Warcraft",
-      "Hearthstone"
-    ]
     }
   ]
 }
