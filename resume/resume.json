@@ -8,11 +8,7 @@
     "website": "https://sethstalley.com",
     "summary": "Hi there! I'm a U.S. expatriate who studied and currently lives in Costa Rica. I'm a software developer looking to see what is next.",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Jaco",
-      "countryCode": "CR",
-      "region": "Puntarenas"
+      "countryCode": "CR"
     },
     "profiles": [
       {
@@ -39,7 +35,7 @@
         "Leveraged AWS SNS and SQS to create a highly portable and scalable communication protocol for Amazon's internal apps.",
         "Created internal documentation and metrics dashboard.",
         "Setup near real-time logs and alarms using AWS CloudWatch.",
-        "After internship I was greenlit by bar raiser and team to be hired as a full time SDE at Amazon."
+        "After the internship, I was greenlit by bar raiser and team to be hired as a full time SDE at Amazon."
       ]
     }
   ],
@@ -159,8 +155,7 @@
     "keywords": [
       "Dota",
       "World of Warcraft",
-      "Hearthstone",
-      "StarCraft"
+      "Hearthstone"
     ]
     }
   ]
