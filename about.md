@@ -26,7 +26,7 @@ layout: page
 
 * **Back-end**
 
-    Node Express, Java Spring, Python Flask, Serverless, Redis, SQL, NoSQL
+    Node Express, Java Spring, Python, Serverless, Redis, SQL, NoSQL
 
 * **Cloud**
 
