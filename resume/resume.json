@@ -80,7 +80,7 @@
       "keywords": [
         "Node Express",
         "Java",
-        "Python Flask",
+        "Python",
         "Ruby Rails",
         "Serverless Lambda",
         "Redis",
@@ -98,7 +98,7 @@
     },
     {
       "name": "DevOps",
-      "level": "Novice",
+      "level": "Intermediate",
       "keywords": [
         "CircleCI",
         "AWS Cloudformation",
