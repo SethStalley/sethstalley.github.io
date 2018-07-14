@@ -18,7 +18,6 @@ Currently I'm working as a Software Engineer and Data Analyst at simMachines - a
         </a>
     </div>
 </div>
----
 
 ---
 
