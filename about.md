@@ -5,7 +5,20 @@ layout: page
 
 <p>I have always been curious about how things work. Growing up, the internet and video games in particular caught my attention (big surprise). My fascination for the seemingly limitless potential of these virtual systems is what finally led me to pursue a bachelor's degree in Computer Science in 2014.</p>
 
-<p>I'm a recent graduate looking to see what is next. The speed and flexibility with which I can learn and adapt to new technologies and practices are what I consider to be my greatest strengths.</p>
+Currently I'm working as a Software Engineer and Data Analyst at simMachines - a machine learning startup.
+
+---
+
+## Where I Work
+
+<div class="side-by-side">
+    <div class="toleft">
+        <a href="https://simmachines.com/">
+            <img class="image" src="{{ site.url }}/assets/images/simMachines_logo.png" alt="simMachines">
+        </a>
+    </div>
+</div>
+---
 
 ---
 
