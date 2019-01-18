@@ -4,4 +4,10 @@
 
 # Export HTML
 
-1. `resume export resume.html`
+For HTML viewing:
+1. `resume export resume.html --theme elegant`
+For transforming into a PDF:
+2. `resume export resume.html --theme flat`
+
+
+
