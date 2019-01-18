@@ -3,7 +3,7 @@ name: Seth Stalley
 bio: Software Engineer, gamer and space aficionado. Expatriate living in Costa Rica.
 
 # twitter summary info
-description: Tweet about video games, software development, Costa Rica, and whatever I'm up to.
+description: I tweet about video games, software development, Costa Rica, and whatever I'm up to.
 
 # if it's an external image, update below for true
 # better with square images
@@ -14,7 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://registry.jsonresume.org/sethstalley?theme=elegant
+resume-url: https://github.com/SethStalley/sethstalley.github.io/tree/master/resume/resume.html
 
 url: https://sethstalley.com
 

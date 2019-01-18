@@ -6,7 +6,7 @@
     "email": "sethstalley@gmail.com",
     "phone": "+506 83011931",
     "website": "https://sethstalley.com",
-    "summary": "Hi there! I'm a software engineer and U.S. expatriate who studied and currently lives in Costa Rica.",
+    "summary": "Hi there! I'm a software engineer and U.S. expatriate who lives in Costa Rica.",
     "location": {
       "countryCode": "CR"
     },
@@ -28,8 +28,10 @@
       "company": "simMachines",
       "position": "Software Engineer and Data Analyst",
       "startDate": "2018-07-09",
-      "summary": "",
+      "summary": "Working as a full stack software engineer at a fast paced machine learning startup.",
       "highlights": [
+        "Leader in company's transition to an automated CI/CD processes. Products are now built and deployed in minutes instead of days.",
+        "Integral designer and developer of full stack A/B Testing project. The product uses proprietary Machine Learning models to explain the 'Why' behind customer's preferences."
       ]
     },
     {
@@ -40,8 +42,8 @@
       "summary": "Created internal Java microservice that allows internal applications to easily communicate with Amazon's email service.",
       "highlights": [
         "Greatly simplified the existing solution that was being used to send emails from internal IT applications.",
-        "Leveraged AWS SNS and SQS to create a highly portable and scalable communication protocol for Amazon's internal apps.",
-        "Created internal documentation and metrics dashboard.",
+        "Leveraged AWS SNS and SQS to create a highly portable and scalable service.",
+        "Created internal documentation and metrics dashboards.",
         "Setup near real-time logs and alarms using AWS CloudWatch.",
         "After the internship, I was greenlit by the bar raiser and team to be hired as a full time SDE at Amazon."
       ]
@@ -112,6 +114,7 @@
         "AWS Cloudformation",
         "AWS Code Deploy",
         "Gulp",
+        "Docker",
         "Github"
       ]
     },

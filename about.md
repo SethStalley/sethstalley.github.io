@@ -46,7 +46,7 @@ Currently I'm working as a Software Engineer and Data Analyst at simMachines - a
 
 * **DevOps**
 
-    CircleCI, AWS Cloudformation, AWS Code Deploy, Gulp, Github
+    CircleCI, AWS Cloudformation, AWS Code Deploy, Gulp, Docker, Github
 
 * **Video Games**
 
@@ -62,7 +62,7 @@ Currently I'm working as a Software Engineer and Data Analyst at simMachines - a
 
 * **AI**
 
-    Artificial intelligence, being one of the hottest topics within my field, has definitely caught my interest. The life changing potential is ridiculous, albeit also a bit scary. I by no means claim to be an expert in this area, however I am very interested expanding my knowledge and doing more work within this field.
+    Artificial intelligence, being one of the hottest topics within my field, has definitely caught my interest. I by no means claim to be an expert in this area, however I am very interested expanding my knowledge and doing more work within this field.
     
 * **Space**
 
@@ -70,4 +70,4 @@ Currently I'm working as a Software Engineer and Data Analyst at simMachines - a
 
 * **Video Games**
 
-    Video games in some ways best showcase the potential of virtual systems. Entire worlds not restrained by the laws of physics but by the imagination and rules of their creators. Blizzard in particular is one of my favorite such creators. Games such as StarCraft were a huge part of my high school years and presently I am an avid player of World of Warcraft, Diablo and Hearthstone.
+    Video games in some ways best showcase the potential of virtual systems. Entire worlds not restrained by the laws of physics but by the imagination and rules of their creators. Blizzard in particular is one of my favorite such creators. Games such as StarCraft were a huge part of my high school years.
