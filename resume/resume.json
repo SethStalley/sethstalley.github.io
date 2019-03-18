@@ -28,7 +28,8 @@
       "company": "simMachines",
       "position": "Software Engineer and Data Analyst",
       "startDate": "2018-07-09",
-      "summary": "I work as a full stack software engineer at a fast paced machine learning startup.",
+      "endDate": "2019-03-01",
+      "summary": "Worked as a full stack software engineer at a fast paced machine learning startup.",
       "highlights": [
         "Leader in company's transition to an automated CI/CD processes. Products are now built and deployed in minutes instead of days.",
         "Integral designer and developer of full stack A/B Testing project. The product uses proprietary Machine Learning models to explain the 'Why' behind customer's preferences."

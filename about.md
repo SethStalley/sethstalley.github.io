@@ -5,7 +5,7 @@ layout: page
 
 <p>I have always been curious about how things work. Growing up, the internet and video games in particular caught my attention (big surprise). My fascination for the seemingly limitless potential of these virtual systems is what finally led me to pursue a bachelor's degree in Computer Science in 2014.</p>
 
-Currently I'm working as a Software Engineer and Data Analyst at simMachines - a machine learning startup.
+Currently, I am working as a Software Engineer at Amazon.
 
 ---
 
@@ -13,9 +13,7 @@ Currently I'm working as a Software Engineer and Data Analyst at simMachines - a
 
 <div class="side-by-side">
     <div class="toleft">
-        <a href="https://simmachines.com/">
-            <img class="image" src="{{ site.url }}/assets/images/simMachines_logo.png" alt="simMachines">
-        </a>
+        <img class="image" src="{{ site.url }}/assets/images/amazon_logo_RGB.jpg" alt="Amazon">
     </div>
 </div>
 
@@ -25,7 +23,9 @@ Currently I'm working as a Software Engineer and Data Analyst at simMachines - a
 
 <div class="side-by-side">
     <div class="toleft">
-        <img class="image" src="{{ site.url }}/assets/images/amazon_logo_RGB.jpg" alt="Amazon">
+        <a href="https://simmachines.com/">
+            <img class="image" src="{{ site.url }}/assets/images/simMachines_logo.png" alt="simMachines">
+        </a>
     </div>
 </div>
 ---
@@ -71,3 +71,10 @@ Currently I'm working as a Software Engineer and Data Analyst at simMachines - a
 * **Video Games**
 
     Video games in some ways best showcase the potential of virtual systems. Entire worlds not restrained by the laws of physics but by the imagination and rules of their creators. Blizzard in particular is one of my favorite such creators. Games such as StarCraft were a huge part of my high school years.
+
+
+---
+
+### Disclaimer
+
+All thoughts and opinions expressed on this site are my own and do not reflect those of my current or past employers.
