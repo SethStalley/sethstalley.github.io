@@ -25,6 +25,18 @@
   },
   "work": [
     {
+      "company": "Amazon",
+      "position": "Software Development Engineer",
+      "startDate": "2019-03-01",
+      "summary": "Built self service and automation solutions for Amazon's Selling Partners.",
+      "highlights": [
+        "Built cross service automation workflows aimed at increasing the automation of internal processes and providing self service solutions to Amazon Sellers.",
+        "Improved developer onboarding of team's services. Onboarding time reduction for some services going from hours to minutes.",
+        "Championed team's shift to building infrastructure as code through the use of AWS CDK.",
+        "Actively leading the deprecation of a legacy internal service with 13 client application - 4 clients remain."
+      ]
+    },
+    {
       "company": "simMachines",
       "position": "Software Engineer and Data Analyst",
       "startDate": "2018-07-09",
@@ -37,7 +49,7 @@
     },
     {
       "company": "Amazon",
-      "position": "SDE Intern",
+      "position": "Software Development Engineer - Intern",
       "startDate": "2017-07-24",
       "endDate": "2017-11-25",
       "summary": "Created internal Java microservice that allows internal applications to easily communicate with Amazon's email service.",
