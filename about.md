@@ -34,11 +34,11 @@ Currently, I am working as a Software Engineer at Amazon.
 
 * **Front-end**
 
-    HTML-CSS, JavaScript, Jekyll/Hugo, Electron
+    HTML-CSS, JavaScript, Jekyll/Hugo, React
 
 * **Back-end**
 
-    Node Express, Java Spring, Python, Serverless, Redis, SQL, NoSQL
+    Node Express, Java Spring, Scala, Python, Serverless, Redis, SQL, NoSQL
 
 * **Cloud**
 
@@ -46,7 +46,7 @@ Currently, I am working as a Software Engineer at Amazon.
 
 * **DevOps**
 
-    CircleCI, AWS Cloudformation, AWS Code Deploy, Gulp, Docker, Github
+    CircleCI, AWS CDK/Cloudformation, AWS Code Deploy, Gulp, Docker, Github
 
 * **Video Games**
 
