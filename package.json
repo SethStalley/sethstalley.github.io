@@ -1,0 +1,25 @@
+{
+  "name": "sethstalley.github.io",
+  "version": "1.0.0",
+  "description": "Personal site and portfolio.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-resume": "cd resume && resume export resume-for-pdf.html --theme flat && resume export resume.html --theme elegant"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SethStalley/sethstalley.github.io.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SethStalley/sethstalley.github.io/issues"
+  },
+  "homepage": "https://github.com/SethStalley/sethstalley.github.io#readme",
+  "devDependencies": {
+    "resume-cli": "2.0.0",
+    "jsonresume-theme-flat": "0.3.7",
+    "jsonresume-theme-elegant": "1.13.2"
+  }
+}
