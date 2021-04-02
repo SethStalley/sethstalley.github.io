@@ -5,7 +5,7 @@ layout: page
 
 <p>I have always been curious about how things work. Growing up, the internet and video games in particular caught my attention (big surprise). My fascination for the seemingly limitless potential of these virtual systems is what finally led me to pursue a bachelor's degree in Computer Science in 2014.</p>
 
-Currently, I am working as a Software Engineer at Amazon.
+Currently, I am working as a Software Engineer at Microsoft.
 
 ---
 
@@ -13,13 +13,19 @@ Currently, I am working as a Software Engineer at Amazon.
 
 <div class="side-by-side">
     <div class="toleft">
-        <img class="image" src="{{ site.url }}/assets/images/amazon_logo_RGB.jpg" alt="Amazon">
+        <img class="image" src="{{ site.url }}/assets/images/microsoft_logo.jpg" alt="Microsoft">
     </div>
 </div>
 
 ---
 
 ## Where I Have Worked
+
+<div class="side-by-side">
+    <div class="toleft">
+        <img class="image" src="{{ site.url }}/assets/images/amazon_logo_RGB.jpg" alt="Amazon">
+    </div>
+</div>
 
 <div class="side-by-side">
     <div class="toleft">
