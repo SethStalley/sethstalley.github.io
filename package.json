@@ -18,8 +18,8 @@
   },
   "homepage": "https://github.com/SethStalley/sethstalley.github.io#readme",
   "devDependencies": {
-    "resume-cli": "2.0.0",
-    "jsonresume-theme-flat": "0.3.7",
+    "resume-cli": "^3.0.4",
+    "jsonresume-theme-flat": "^0.3.7",
     "jsonresume-theme-elegant": "^1.14.0"
   }
 }
