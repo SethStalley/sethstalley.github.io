@@ -20,6 +20,6 @@
   "devDependencies": {
     "resume-cli": "2.0.0",
     "jsonresume-theme-flat": "0.3.7",
-    "jsonresume-theme-elegant": "1.13.2"
+    "jsonresume-theme-elegant": "^1.14.0"
   }
 }
