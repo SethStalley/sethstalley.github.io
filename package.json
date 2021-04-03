@@ -4,6 +4,7 @@
   "description": "Personal site and portfolio.",
   "main": "index.html",
   "scripts": {
+    "build": "echo 'Build not yet implemented.' && exit 0",
     "test": "echo \"Error: no test specified\" && exit 1",
     "build-resume": "cd resume && resume export resume-for-pdf.html --theme flat && resume export resume.html --theme elegant"
   },
