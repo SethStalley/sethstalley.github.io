@@ -13,10 +13,9 @@ Test locally with
 
 ## Resume
 
-Resume is generated with `resume-cli`. 
+Resume is generated with `resume-cli`.
 
 Generate resume with
 >`npm run build-resume`
 
 TODO: Setup a github action to do this automatically.
-

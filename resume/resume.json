@@ -6,7 +6,7 @@
     "email": "sethstalley@gmail.com",
     "phone": "+506 83011931",
     "website": "https://sethstalley.com",
-    "summary": "Hi there! I'm a software engineer and U.S. expatriate who lives in Costa Rica.",
+    "summary": "Hi there! I'm a software engineer and U.S. expatriate who currently lives in Costa Rica.",
     "location": {
       "countryCode": "CR"
     },
@@ -15,25 +15,33 @@
         "network": "Twitter",
         "username": "sethstalley",
         "url": "https://twitter.com/sethstalley"
-      },
-      {
-        "network": "Github",
-        "username": "sethstalley",
-        "url": "https://github.com/sethstalley"
       }
     ]
   },
   "work": [
     {
+      "company": "Microsoft",
+      "position": "Software Engineer II",
+      "startDate": "2021-03-15",
+      "summary": "Built big data analytics pipeline for Teams backend and improved devops processes within the wider team.",
+      "highlights": [
+        "Built regionalized data analytics pipeline using Spark and Azure Synapse. The pipeline provides insight into provisioned Microsoft Teams customers. The pipeline processes billions of rows and considers data boundary and data privacy concerns.",
+        "Wrote custom orchestrator/job which runs Dependabot inside our Azure Dev Ops organization. Dependabot helps maintain the Nuget packages of over 400 git repositories. To date, dependabot has submitted over 1k pull requests with dependency update recommendations.",
+        "Leading a multi-dev project to improve deployment processes for services within our wider team. To date we have simplified builds, collected unified quality metrics, and reduced the manual steps required to deploy services to production."
+      ]
+    },
+    {
       "company": "Amazon",
-      "position": "Software Development Engineer",
+      "position": "Software Development Engineer I & II",
       "startDate": "2019-03-01",
+      "endDate": "2021-03-12",
       "summary": "Built self service and automation solutions for Amazon's Selling Partners.",
       "highlights": [
-        "Built cross service automation workflows aimed at increasing the automation of internal processes and providing self service solutions to Amazon Sellers.",
+        "Built cross service automation workflows aimed at increasing the automation of internal processes and providing self service solutions to Amazon Sellers. Up to ~85% reduction in human handled support cases for certain scenarios.",
         "Improved developer onboarding of team's services. Reduced onboarding time for some services from hours to minutes.",
         "Championed team's shift to building infrastructure as code through the use of AWS CDK.",
-        "Actively leading the deprecation of a legacy internal service with 13 client applications - 4 clients remain."
+        "Actively lead the deprecation of a legacy internal service with 13 client applications - 4 clients remain.",
+        "Was promoted from SDE I to SDE II in ~19 months - which is above average for Amazon."
       ]
     },
     {
@@ -87,26 +95,15 @@
 
   "skills": [
     {
-      "name": "Web Development",
-      "level": "Intermediate",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "Hugo/Jekyll",
-        "Electron"
-      ]
-    },
-    {
       "name": "Backend",
       "level": "Intermediate",
       "keywords": [
-        "Node Express",
-        "Java",
+        "Java/Scala",
         "Python",
+        "Node Express",
         "Ruby Rails",
-        "Serverless Lambda",
-        "Redis",
+        "Serverless",
+        "In memory DB",
         "SQL",
         "NoSQL"
       ]
@@ -116,6 +113,7 @@
       "level": "Intermediate",
       "keywords": [
         "AWS",
+        "Azure",
         "Firebase"
       ]
     },
@@ -126,9 +124,23 @@
         "CircleCI",
         "AWS Cloudformation",
         "AWS Code Deploy",
+        "Azure Dev Ops",
+        "Azure Resource manager",
         "Gulp",
         "Docker",
-        "Github"
+        "Github",
+        "Github Actions"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "Intermediate",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript/TypeScript",
+        "Hugo/Jekyll",
+        "Electron"
       ]
     },
     {
