@@ -1,14 +1,14 @@
 {
   "basics": {
     "name": "Seth Michael Stalley",
-    "label": "Software Developer",
+    "label": "Senior Software Engineer",
     "picture": "https://sethstalley.com/assets/images/profile.jpg",
     "email": "sethstalley@gmail.com",
-    "phone": "+506 83011931",
+    "phone": "+1 (425) 748-4054",
     "website": "https://sethstalley.com",
-    "summary": "Hi there! I'm a software engineer and U.S. expatriate who currently lives in Costa Rica.",
+    "summary": "Hi there! I'm a software engineer based in the Seattle area.",
     "location": {
-      "countryCode": "CR"
+      "countryCode": "US"
     },
     "profiles": [
       {
@@ -21,8 +21,16 @@
   "work": [
     {
       "company": "Microsoft",
+      "position": "Senior Software Engineer",
+      "startDate": "2023-12-01",
+      "summary": "Hyperscaling data access.",
+      "highlights": []
+    },
+    {
+      "company": "Microsoft",
       "position": "Software Engineer II",
       "startDate": "2021-03-15",
+      "endDate": "2023-11-30",
       "summary": "Built big data analytics pipeline for Teams backend and improved devops processes within the wider team.",
       "highlights": [
         "Built regionalized data analytics pipeline using Spark and Azure Synapse. The pipeline provides insight into provisioned Microsoft Teams customers. The pipeline processes billions of rows and considers data boundary and data privacy concerns.",

@@ -5,7 +5,7 @@ layout: page
 
 <p>I have always been curious about how things work. Growing up, the internet and video games in particular caught my attention (big surprise). My fascination for the seemingly limitless potential of these virtual systems is what finally led me to pursue a bachelor's degree in Computer Science in 2014.</p>
 
-Currently, I am working as a Software Engineer at Microsoft.
+Currently, I am working as a Software Engineer in the Seattle area at Microsoft.
 
 ---
 
